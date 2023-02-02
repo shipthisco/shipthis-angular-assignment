@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
 
+## Assignment
+
+To perform the assignment fork this repo
+![image](https://user-images.githubusercontent.com/15933391/216271445-b5e8f16b-d6e5-48d0-a245-15c692e11523.png)
+
+Send us the link to your forked repository at shariba@shipthis.co
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
