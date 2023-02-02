@@ -1,13 +1,15 @@
 # ShipthisAngularAssignment
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
-
 ## Assignment
 
-To perform the assignment fork this repo
-![image](https://user-images.githubusercontent.com/15933391/216271445-b5e8f16b-d6e5-48d0-a245-15c692e11523.png)
+- To perform the assignment fork this repo
+- Send us the link to your forked repository at shariba@shipthis.co
+- This starter project has Tailwind and DaisyUI preinstalled. You can use them to style your components.
 
-Send us the link to your forked repository at shariba@shipthis.co
+All the best 👍
+Happy Coding 👩‍💻
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
 
 ## Development server
 
